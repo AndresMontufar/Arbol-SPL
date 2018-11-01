@@ -1,0 +1,10 @@
+digraph G {
+node[shape = oval];
+Nodo0x562214294b40 [label = "8"];
+Nodo0x562214294b40-> Nodo0x562214294a80;
+Nodo0x562214294a80 [label = "5"];
+Nodo0x562214294a80-> Nodo0x562214294ae0;
+Nodo0x562214294ae0 [label = "3"];
+Nodo0x562214294a80-> Nodo0x562214294ba0;
+Nodo0x562214294ba0 [label = "6"];
+}
